@@ -48,3 +48,10 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)
+
+## 🚀 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+
+## ✍️ Random Dev Quote:
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
