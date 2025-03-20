@@ -1,4 +1,4 @@
-🚀 About Me:
+## 🚀 About Me:
 
 
 👋 Hey there! I'm a passionate full-stack developer currently working on a Portfolio Builder Website using Node.js and React.js.
@@ -12,13 +12,12 @@
 ⚡ Fun fact: I can debug backend issues faster than deciding what to watch on Netflix!
 
 
-
-🌐 Socials:
+## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neellpandya/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neepandya22/)
 
-💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
