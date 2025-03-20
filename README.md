@@ -1,6 +1,6 @@
 🚀 About Me:
 
-🚀 About Me
+
 👋 Hey there! I'm a passionate full-stack developer currently working on a Portfolio Builder Website using Node.js and React.js.
 
 💡 I enjoy building scalable web applications, optimizing backend performance, and crafting user-friendly interfaces.
