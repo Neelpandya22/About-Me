@@ -56,3 +56,6 @@
 
 ## ✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 🏆 GitHub Profile Trophy
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub)
