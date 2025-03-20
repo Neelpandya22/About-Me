@@ -1,8 +1,8 @@
 🚀 About Me:
 
 🌐 Socials:
-[!Instagram](https://www.instagram.com/neellpandya/)
-[!Linkedin](https://www.linkedin.com/in/neepandya22/)
+[!Instagram][![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neellpandya/)
+[!Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neepandya22/)
 
 💻 Tech Stack:
 
