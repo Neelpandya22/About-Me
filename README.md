@@ -1,5 +1,18 @@
 🚀 About Me:
 
+🚀 About Me
+👋 Hey there! I'm a passionate full-stack developer currently working on a Portfolio Builder Website using Node.js and React.js.
+
+💡 I enjoy building scalable web applications, optimizing backend performance, and crafting user-friendly interfaces.
+
+🔍 Always eager to explore new technologies and collaborate on exciting projects!
+
+💬 Ask me about MERN stack development, API design, authentication, and deployment strategies.
+
+⚡ Fun fact: I can debug backend issues faster than deciding what to watch on Netflix!
+
+
+
 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neellpandya/)
