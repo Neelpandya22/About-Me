@@ -49,7 +49,7 @@
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neelpandya22&show_icons=true&theme=dark)
 
-## 📊 GitHub Streak:
+## ⚡ GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neelpandya22&theme=dark)
 
 ## 🚀 Most Used Languages:
